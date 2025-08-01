@@ -1,0 +1,10 @@
+featureList
+Mean_Intensity
+Median_Intensity
+Std_Intensity
+Area
+Perimeter
+Major_Axis_Length
+Minor_Axis_Length
+
+Runtime: 00:00:27 h:m:s
