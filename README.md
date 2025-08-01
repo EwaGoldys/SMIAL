@@ -1,4 +1,4 @@
-# <img src="Figures/Logo.png" alt="My Figure" width="400"/>
+# <img src="Figures/Logo.png" alt="My Figure" width="300"/>
 
 Software for Multidimensional Data Analysis and Classification (SMIAL) is a user-friendly graphical user interface that enables end-to-end machine learning workflows for multidimensional imaging data without requiring programming skills.
 SMIAL consists of six key panels for image and data analysis:
