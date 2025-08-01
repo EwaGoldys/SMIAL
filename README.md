@@ -27,4 +27,4 @@ SMIAL consists of six key panels for image and data analysis:
 
 - **SMIAL was developed using MATLAB R2024a**, but it is distributed as a **stand-alone application** and does not require a local MATLAB installation to run.
 
-- For installation instructions, usage guidance, and system requirements, please refer to the [User Manual](SMIAL_Manual.pdf) included in the repository.
+- For installation instructions, usage guidance, and system requirements, please refer to the [User Manual](SMIAL Manual.pdf) included in the repository.
