@@ -1,0 +1,22 @@
+Spike Removal (all files & channels): 
+Window size: 0.3
+Threshold: 15
+------
+Image: 
+- Smoothing Method: Median Filter
+- Parameter: 5, 5, 5, 5, 5
+------
+Background: 
+- Pathname: C:\Users\z5160427\Downloads\Melanoma analysis\Example background and calibration mat\
+- Filename: Water.mat
+- Smoothing Method: Moving Average
+- Parameter: 5
+- Background shifting:
+Not applied.
+------
+Calibration: 
+Not applied.
+------
+Run time: 
+00:00:41 h:m:s
+------
