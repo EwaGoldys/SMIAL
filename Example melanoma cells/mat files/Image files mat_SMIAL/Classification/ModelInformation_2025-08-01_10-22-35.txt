@@ -1,0 +1,25 @@
+myMdl, 2025-08-01_10-22-35
+# Input features for classification: 43
+(# Manually deleted features: 0)
+------
+Validation method: 5-fold cross-validation
+------
+Normalisation method: Z-Score
+------
+Number of selected features: 3
+Feature selection method: Minimum Redundancy Maximum Relevance (MRMR)
+Selected features: 
+(38) x5/x4; 
+(41) Area_unit; 
+(36) x5/x2; 
+------
+Feature extraction: pca, lda
+→ Number of selected PCs: 3
+(PCA cut-off: 0.95)
+------
+Classification mode: Supervised
+Classifier: Linear SVM (selected based on performance metric: AUC)
+------
+Run time: 
+00:00:21 h:m:s
+------
