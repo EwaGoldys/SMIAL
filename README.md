@@ -7,6 +7,9 @@ SMIAL consists of six key panels for image and data analysis:
   4. Feature Generation  
   5. Data Cleaning and Statistics  
   6. Feature Analysis
+
+![My Figure](Figures/SMIAL_Overview.tif)
+
 ## Installation Instructions
 1. Download the SMIAL folder from the github repository: https://github.com/EwaGoldys/SMIAL.git
 2. Install SMIAL
