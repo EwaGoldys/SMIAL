@@ -15,7 +15,7 @@ SMIAL consists of six key panels for image and data analysis:
 ## Installation Instructions
 
 1. Download the MyAppInstaller.exe file separately* from the Github repository (https://github.com/EwaGoldys/SMIAL.git) by clicking on the .exe-file and selecting the download option. 
-   - The downloaded file should be larger than 200MB.
+   - The downloaded file should be larger than 20MB.
    - Download the SMIAL folder from the Github repository to access sample datasets.
      
    *Please note that downloading the zip file off the Github repository will incorrectly download the MyAppInstaller.exe file and cause issues with installation.
